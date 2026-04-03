@@ -1,0 +1,5 @@
+{
+  "name": "Nova AI Assistant",
+  "description": "A powerful and elegant AI assistant powered by Gemini, featuring streaming responses and multimodal support.",
+  "requestFramePermissions": []
+}
